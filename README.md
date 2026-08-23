@@ -59,3 +59,9 @@ Once uploaded, open the **Serial Monitor** at **115200 baud** (with `Newline` or
     *   Prints the current mode, target angle, pulse duration in microseconds, and active control pin.
 *   **`help`**
     *   Displays the command list again.
+
+---
+
+## Credits
+
+This project was built and optimized by **Antigravity**, an agentic AI coding assistant designed by the Google DeepMind team.
